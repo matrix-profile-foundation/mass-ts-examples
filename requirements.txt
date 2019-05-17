@@ -1,0 +1,4 @@
+mass-ts
+numpy
+matplotlib
+jupyter
