@@ -5,6 +5,7 @@ This repository is a supporting repository for [mass-ts](https://github.com/tyle
 
 1. Robot Dog - This example is a good starting point.
 2. ECG - This example illustrates searching a large time series.
+3. ECG (Google Colab) - This example demonstrates the usage of mass-ts library in google colab. 
 
 Contributing
 ------------
